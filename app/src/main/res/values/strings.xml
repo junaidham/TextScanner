@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Scan</string>
+    <string name="ok">OK</string>
+    <string name="err_msg_internet">Please check Internet connection</string>
+</resources>
